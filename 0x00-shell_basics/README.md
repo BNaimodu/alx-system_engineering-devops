@@ -5,3 +5,4 @@ script to display contents in long format
 script to list hidden files
 i love numbers
 script to create a directory name
+script to move a file
