@@ -12,3 +12,4 @@ previous directory
 list all files
 file type script
 symbolic link
+copy HTML files
