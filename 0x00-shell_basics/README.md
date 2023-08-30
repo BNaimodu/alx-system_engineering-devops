@@ -9,3 +9,4 @@ script to move a file
 delete betty
 delete my first directory
 previous directory
+list all files
