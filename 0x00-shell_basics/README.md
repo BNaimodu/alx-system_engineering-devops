@@ -4,3 +4,4 @@ script to display the contents list of your current directory
 script to display contents in long format
 script to list hidden files
 i love numbers
+script to create a directory name
