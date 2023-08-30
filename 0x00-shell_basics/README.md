@@ -11,3 +11,4 @@ delete my first directory
 previous directory
 list all files
 file type script
+symbolic link
