@@ -1,2 +1,6 @@
-Absolute path of the current working directory: /alx-system_engineering-devops/0x00-shell_basics
 #!/bin/bash
+
+current_directory=$(pwd)
+echo "Absolute path of the current working directory: $current_directory"
+
+
