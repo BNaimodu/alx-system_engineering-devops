@@ -1,2 +1,2 @@
 #!/bin/bash
-mode=$(stat -c %a olleh) chmod 354 "${mode}" hello
+chown --reference=olleh hello
