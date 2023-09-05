@@ -1,0 +1,2 @@
+#!/bin/bash
+[[ -n "$BINARY" ]] | echo "$((2#$BINARY))"
